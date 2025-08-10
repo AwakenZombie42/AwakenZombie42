@@ -1,8 +1,6 @@
 <h1 align="center">hello world, I'm Zaid Shaikh</h1>
 <h3 align="center">Enthusiastic Computer Engineering student | Full-stack & Hardware Developer | Tech Community Lead</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awakenzombie42&label=Profile%20views&color=0e75b6&style=flat" alt="awakenzombie42" /> </p>
-
 - 🔭 I’m currently working as a **Technical Lead at Microsoft Student Ambassadors**
 
 - 🌱 I’m currently learning **Machine Learning**
