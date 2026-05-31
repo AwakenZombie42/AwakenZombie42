@@ -1,4 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 <h1 align="center">hello world, I'm Zaid Shaikh</h1>
 <h3 align="center">Enthusiastic Computer Engineering student | Full-stack & Hardware Developer | Tech Community Lead</h3>
 
