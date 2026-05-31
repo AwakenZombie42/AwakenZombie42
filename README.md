@@ -1,3 +1,4 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <h1 align="center">hello world, I'm Zaid Shaikh</h1>
 <h3 align="center">Enthusiastic Computer Engineering student | Full-stack & Hardware Developer | Tech Community Lead</h3>
 
